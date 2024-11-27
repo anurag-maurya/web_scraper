@@ -28,5 +28,5 @@ This project is a solution of the assignment given by Atlys.
 }
 ```
 
-### It will create a scraped_products.json where product_title, product_price and path_to_image 
+### It will create a scraped_products.json where it will write product_title, product_price and path_to_image for all products.
 ### It will create a `images` folder where it will keep all the downloaded images of products.
