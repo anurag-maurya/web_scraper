@@ -1,6 +1,7 @@
 # web_scraper
 This project just scrapes the product details from https://dentalstall.com/shop/
 This project is a solution of the assignment given by Atlys.
+To complete this project I used FastAPI to create a endpoint `scrape`, when this endpoint will be triggered it will scrape the product details and write the details in scraped_products.json and store the product images in `iamges` folder then returns the response with the count of products details fetched.
 
 ## How to run this project:
 1. Setup a virtual environment in local ( follow this to setup https://www.freecodecamp.org/news/how-to-setup-virtual-environments-in-python/)
